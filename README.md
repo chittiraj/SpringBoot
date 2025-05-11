@@ -2,6 +2,7 @@
 This repository contains a basic tree flow of Spring Boot concepts, progressing step-by-step from the fundamentals up to Docker integration.
 
 `🛠️ What's Covered`
+
 Throughout the folder structure, you'll find individual projects or modules focusing on:
 
 `Spring Boot Basics`
